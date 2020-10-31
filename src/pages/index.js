@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const BlogLink = styled(Link)`
   text-decoration: none;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 25px;
   color: #663399;
 `
 
